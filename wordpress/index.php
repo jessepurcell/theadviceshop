@@ -1,6 +1,7 @@
 <?php include( "dbconnect.php" ); ?>
 <!doctype html>
 <html>
+
 <head>
     <meta charset="UTF-8">
     <title>The Advice Shop - Home</title>
