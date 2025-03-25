@@ -8,7 +8,7 @@ $name = substr($filename, 0, strrpos($filename, ".")); // Remove file extension
       <input name="username" id="username" type="text" placeholder="Username" required>
       <input name="submit" type="submit" value="Login">
     </form>
-    <p>Don't have an account? <a href="register.php">Register here</a></p>
+    <p>Don't have an account? <a href="register.php" class="register-link">Register here</a></p>
   </aside>
   <a href="index.php">
     <h1><span class="glyphicon glyphicon-ok"></span> The Advice Shop</h1>
